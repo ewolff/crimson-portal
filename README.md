@@ -1,41 +1,20 @@
-# RoCA LAS ROCA
+# Crimson Portal
 
-## Prerequisites
-```
-node.js >= 4.0
-```
+The entry point for our demo.
 
-## Run with:
+## Getting Started
 
 ```
 npm install
-npm run compile
-npm run server
+npm start
 ```
 
 You can visit http://localhost:9400 to see the application.
 
-### general documentation
+## History
 
-This repository was created as part of the evaluation project "single page application (SPA) and rest oriented client architecture (RoCA)". [More information] (http://lvm-it.github.io) 
+The first version was created in the evaluation project "single page application (SPA) and rest oriented client architecture (ROCA)". [More information](http://lvm-it.github.io).
 
+## License & Contributing
 
-## Deutsche Version
-
-### Vorraussetzungen
-```
-node.js >= 4.0
-```
-
-### Anwendung starten
-
-```
-npm install
-npm run compile
-npm run server
-```
-Sie finden die Anwendung unter http://localhost:9400.
-
-### Allgemeine Dokumentation
-
-Dieses Projekt ist entstanden im Rahmen einer Evaluation der Architekturen Single Page Application (SPA) und rest oriented client architecture (ROCA). Weitere Informationen befinden sich [hier] (http://lvm-it.github.io)
+This repository is licensed to you under the terms of the MIT license by [Tossca](https://tossca.org/). To contribute, please register as a contributor at https://www.tossca.org.

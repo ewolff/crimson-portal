@@ -83,7 +83,7 @@ module.exports = app
 
 // Only run the application if it was invoked directly (e.g. not required by a test)
 if (module.parent === null) {
-  const backend = require('lasrest')
+  const backend = require('crimson-backend')
 
   Promise.all([
     backend.listen(5100),
