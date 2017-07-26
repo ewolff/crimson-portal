@@ -28,7 +28,7 @@
     "less": "^2.6.0",
     "less-plugin-clean-css": "^1.5.1",
     "less-plugin-npm-import": "^2.1.0",
-    "lvm-las-assets": "LVM-IT/roca-las-assets",
+    "crimson-styleguide": "1.0.0",
     "moment": "^2.11.2",
     "mustache": "^2.2.1",
     "nodemon": "^1.9.1",

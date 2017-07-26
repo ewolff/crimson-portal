@@ -1,4 +1,4 @@
-import 'lvm-las-assets'
+import 'crimson-styleguide'
 import $ from 'jquery'
 import simplete from 'simplete'
 import moment from 'moment'
@@ -57,7 +57,7 @@ $(document).on('ready pjax:success', () => {
 
   // active tabs via this snippet to provide simple
   // anchor based tab navigation if javascript is disabled
-  // TODO: move into lvm-las-assets?
+  // TODO: move into crimson-styleguide?
   $('.nav-tabs').each((_i, item) => {
     let tabContent = $(item).next()
     if (tabContent) {
