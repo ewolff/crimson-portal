@@ -33,8 +33,6 @@
     "mustache": "^2.2.1",
     "nodemon": "^1.9.1",
     "npm": "^3.7.3",
-    "passport": "^0.3.2",
-    "passport-http": "^0.3.0",
     "select2": "^4.0.2",
     "simplete": "innoq/simplete.obsolete#response_result_filter"
   },
