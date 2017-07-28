@@ -13,7 +13,7 @@ You can visit http://localhost:9400 to see the application.
 
 ## History
 
-The first version was created in the evaluation project "single page application (SPA) and rest oriented client architecture (ROCA)". [More information](http://lvm-it.github.io).
+The first version was created in the evaluation project "single page application (SPA) and resource oriented client architecture (ROCA)". [More information](http://lvm-it.github.io).
 
 ## License & Contributing
 
