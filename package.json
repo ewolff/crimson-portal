@@ -18,7 +18,7 @@
   "dependencies": {
     "body-parser": "^1.15.0",
     "compression": "^1.6.1",
-    "crimson-backend": "crimson-assurance/crimson-backend",
+    "crimson-backend": "ewolff/crimson-backend",
     "crimson-styleguide": "^2.0.1",
     "eslint-config-standard": "^5.1.0",
     "eslint-plugin-promise": "^1.0.8",
